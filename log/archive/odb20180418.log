@@ -1,0 +1,80 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2018-04-18 23:06:28 #1 store] 
+Database 'C:\Users\Nash\workspace\Bank\bank.odb' is opened by 4920@DESKTOP-JL1A0P2
+
+[2018-04-18 23:06:28 #2 store] 
+Configuration path: ?
+
+[2018-04-18 23:06:28 #3 type.registry] 
+New type AccountHolder
+
+[2018-04-18 23:06:28 #4 type] 
+Type AccountHolder is not enhanced.
+
+[2018-04-18 23:06:28 #5 type.registry] 
+New type BankCard
+
+[2018-04-18 23:06:28 #6 type.registry] 
+New type java.util.HashSet<BankCard>
+
+[2018-04-18 23:06:28 #7 type.registry] 
+New type Account
+
+[2018-04-18 23:06:28 #8 type.registry] 
+New type java.util.HashSet<Account>
+
+[2018-04-18 23:06:28 #9 type] 
+Type BankCard is not enhanced.
+
+[2018-04-18 23:06:28 #10 type.registry] 
+New type TimeDate
+
+[2018-04-18 23:06:28 #11 type.registry] 
+New type ATMTransaction
+
+[2018-04-18 23:06:28 #12 type.registry] 
+New type java.util.HashSet<ATMTransaction>
+
+[2018-04-18 23:06:28 #13 type] 
+Type Account is not enhanced.
+
+[2018-04-18 23:06:28 #14 type.registry] 
+New type java.util.HashSet<AccountHolder>
+
+[2018-04-18 23:06:28 #15 type.registry] 
+New type java.util.TreeSet<ATMTransaction>
+
+[2018-04-18 23:06:28 #16 type.registry] 
+New type Transfer
+
+[2018-04-18 23:06:28 #17 type.registry] 
+New type java.util.TreeSet<Transfer>
+
+[2018-04-18 23:06:28 #18 type] 
+Type TimeDate is not enhanced.
+
+[2018-04-18 23:06:28 #19 type] 
+Type ATMTransaction is not enhanced.
+
+[2018-04-18 23:06:28 #20 type.registry] 
+New type ATM
+
+[2018-04-18 23:06:28 #21 type] 
+Type Transfer is not enhanced.
+
+[2018-04-18 23:06:28 #22 type] 
+Type ATM is not enhanced.
+
+[2018-04-18 23:06:28 #23 type.registry] 
+New type Branch
+
+[2018-04-18 23:06:28 #24 type] 
+Type Branch is not enhanced.
+
+[2018-04-18 23:06:28 #25 type.registry] 
+New type java.util.HashSet<ATM>
+
+[2018-04-18 23:06:28 #26 type.registry] 
+New type java.util.HashSet<java.lang.Object>
+
